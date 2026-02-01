@@ -88,4 +88,4 @@ This project is released under the **Saku-kun Software License 1.1**.
 ---
 
 ## 🌐 Official Website
-https://sakuzyo.net/os/SakuOS/
+https://sakuzyo.net/os/SakuOS/en
