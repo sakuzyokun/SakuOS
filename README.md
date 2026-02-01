@@ -19,7 +19,7 @@ We’re looking for contributors who want to build this OS together.
 
 ---
 
-## 🧪 Current Status (Beta 0.1 Preview)
+## 🧪 Current Status (Pre-alpha 0.1 Preview)
 - Boots into CLI  
 - Bootloader → Kernel startup works  
 - GUI not implemented yet  
